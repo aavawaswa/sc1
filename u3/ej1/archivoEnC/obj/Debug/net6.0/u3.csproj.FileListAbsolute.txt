@@ -1,0 +1,15 @@
+/home/pop-os/sc1-aav/sc1-u3/u3/bin/Debug/net6.0/u3
+/home/pop-os/sc1-aav/sc1-u3/u3/bin/Debug/net6.0/u3.deps.json
+/home/pop-os/sc1-aav/sc1-u3/u3/bin/Debug/net6.0/u3.runtimeconfig.json
+/home/pop-os/sc1-aav/sc1-u3/u3/bin/Debug/net6.0/u3.dll
+/home/pop-os/sc1-aav/sc1-u3/u3/bin/Debug/net6.0/ref/u3.dll
+/home/pop-os/sc1-aav/sc1-u3/u3/bin/Debug/net6.0/u3.pdb
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.csproj.AssemblyReference.cache
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.GeneratedMSBuildEditorConfig.editorconfig
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.AssemblyInfoInputs.cache
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.AssemblyInfo.cs
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.csproj.CoreCompileInputs.cache
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.dll
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/ref/u3.dll
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.pdb
+/home/pop-os/sc1-aav/sc1-u3/u3/obj/Debug/net6.0/u3.genruntimeconfig.cache
